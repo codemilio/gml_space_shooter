@@ -17,5 +17,5 @@ y += (down - up) * player_speed;
 
 if(fire) 
 {
-	instance_create_layer(x, vfire_origin, "Tiros", obj_tiro_player)
+	instance_create_layer(x, vfire_origin, "Bullets", obj_bullet_player)
 }

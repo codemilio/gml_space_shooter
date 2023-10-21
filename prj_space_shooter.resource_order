@@ -17,9 +17,11 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"obj_tiro_player","order":1,"path":"objects/obj_tiro_player/obj_tiro_player.yy",},
-    {"name":"spr_tiro_player","order":1,"path":"sprites/spr_tiro_player/spr_tiro_player.yy",},
+    {"name":"obj_bullet_player","order":1,"path":"objects/obj_bullet_player/obj_bullet_player.yy",},
+    {"name":"spr_bullet_player","order":1,"path":"sprites/spr_bullet_player/spr_bullet_player.yy",},
     {"name":"spr_enemy_01","order":2,"path":"sprites/spr_enemy_01/spr_enemy_01.yy",},
+    {"name":"obj_bullet_enemy_01","order":3,"path":"objects/obj_bullet_enemy_01/obj_bullet_enemy_01.yy",},
     {"name":"obj_enemy_01","order":2,"path":"objects/obj_enemy_01/obj_enemy_01.yy",},
+    {"name":"sp_bullet_enemy_01","order":3,"path":"sprites/sp_bullet_enemy_01/sp_bullet_enemy_01.yy",},
   ],
 }

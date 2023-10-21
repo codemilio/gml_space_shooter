@@ -1,10 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tiro_player",
+  "name": "obj_bullet_enemy_01",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tiro_player",
-    "path": "sprites/spr_tiro_player/spr_tiro_player.yy",
+    "name": "sp_bullet_enemy_01",
+    "path": "sprites/sp_bullet_enemy_01/sp_bullet_enemy_01.yy",
   },
   "spriteMaskId": null,
   "visible": true,
