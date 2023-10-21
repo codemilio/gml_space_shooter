@@ -1,10 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bullet_enemy_01",
+  "name": "obj_enemy_destroy_eff",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bullet_enemy_01",
-    "path": "sprites/spr_bullet_enemy_01/spr_bullet_enemy_01.yy",
+    "name": "spr_enemy_destroy_eff",
+    "path": "sprites/spr_enemy_destroy_eff/spr_enemy_destroy_eff.yy",
   },
   "spriteMaskId": null,
   "visible": true,

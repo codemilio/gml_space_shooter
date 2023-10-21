@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sp_bullet_enemy_01",
+  "name": "spr_bullet_enemy_01",
   "bbox_bottom": 26,
   "bbox_left": 0,
   "bbox_right": 26,
@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2eac4326-0819-4f5c-a70a-a0f019e5cf5d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 4,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sp_bullet_enemy_01",
+    "name": "spr_bullet_enemy_01",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a37da19f-ca7d-4b38-8c07-a2920c6df55c","path":"sprites/sp_bullet_enemy_01/sp_bullet_enemy_01.yy",},},},"Disabled":false,"id":"05a6a7b8-bc02-4e7f-ba5b-ba1f5b4ea071","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a37da19f-ca7d-4b38-8c07-a2920c6df55c","path":"sprites/spr_bullet_enemy_01/spr_bullet_enemy_01.yy",},},},"Disabled":false,"id":"05a6a7b8-bc02-4e7f-ba5b-ba1f5b4ea071","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 13,
+    "yorigin": 13,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

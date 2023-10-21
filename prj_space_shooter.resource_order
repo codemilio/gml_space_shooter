@@ -22,6 +22,8 @@
     {"name":"spr_enemy_01","order":2,"path":"sprites/spr_enemy_01/spr_enemy_01.yy",},
     {"name":"obj_bullet_enemy_01","order":3,"path":"objects/obj_bullet_enemy_01/obj_bullet_enemy_01.yy",},
     {"name":"obj_enemy_01","order":2,"path":"objects/obj_enemy_01/obj_enemy_01.yy",},
-    {"name":"sp_bullet_enemy_01","order":3,"path":"sprites/sp_bullet_enemy_01/sp_bullet_enemy_01.yy",},
+    {"name":"obj_enemy_destroy_eff","order":4,"path":"objects/obj_enemy_destroy_eff/obj_enemy_destroy_eff.yy",},
+    {"name":"spr_bullet_enemy_01","order":3,"path":"sprites/spr_bullet_enemy_01/spr_bullet_enemy_01.yy",},
+    {"name":"spr_enemy_destroy_eff","order":4,"path":"sprites/spr_enemy_destroy_eff/spr_enemy_destroy_eff.yy",},
   ],
 }
