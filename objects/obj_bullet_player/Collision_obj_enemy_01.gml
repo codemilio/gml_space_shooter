@@ -1,3 +1,3 @@
-/// @description Insert description here
+/// @description > Impacto no inimigo
 
 instance_destroy()
