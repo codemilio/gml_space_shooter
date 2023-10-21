@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_bullet_eff",
-    "path": "sprites/spr_player_bullet_eff/spr_player_bullet_eff.yy",
+    "name": "spr_damage",
+    "path": "sprites/spr_damage/spr_damage.yy",
   },
   "spriteMaskId": null,
   "visible": true,

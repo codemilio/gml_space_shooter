@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_enemy_destroy_eff",
-    "path": "sprites/spr_enemy_destroy_eff/spr_enemy_destroy_eff.yy",
+    "name": "spr_destroyed",
+    "path": "sprites/spr_destroyed/spr_destroyed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -25,8 +25,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bullet_player","order":1,"path":"objects/obj_bullet_player/obj_bullet_player.yy",},
-    {"name":"spr_player_bullet_eff","order":1,"path":"sprites/spr_player_bullet_eff/spr_player_bullet_eff.yy",},
+    {"name":"spr_damage","order":1,"path":"sprites/spr_damage/spr_damage.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_bullet_shine","order":2,"path":"sprites/spr_bullet_shine/spr_bullet_shine.yy",},
     {"name":"spr_bg_03","order":2,"path":"sprites/spr_bg_03/spr_bg_03.yy",},
     {"name":"obj_damage","order":1,"path":"objects/obj_damage/obj_damage.yy",},
     {"name":"obj_enemy_01","order":1,"path":"objects/obj_enemy_01/obj_enemy_01.yy",},
