@@ -1,2 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Ao ser destruído
+
+instance_create_layer(x, y, "Effects", obj_destroyed)

@@ -1,2 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description > Dano no player
+
+instance_create_layer(x, y, "Effects", obj_damage)

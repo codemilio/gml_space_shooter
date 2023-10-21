@@ -1,3 +1,3 @@
 /// @description > Destruindo disparo
 
-instance_destroy()
+instance_destroy(id, false)

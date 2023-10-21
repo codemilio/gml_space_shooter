@@ -1,4 +1,4 @@
-/// @description > Iniciando variáveis 
+/// @description > Definindo comandos 
 
 // Player commands
 var right, left, up, down, fire

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player_bullet_eff",
+  "name": "obj_destroyed",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_bullet_eff",
-    "path": "sprites/spr_player_bullet_eff/spr_player_bullet_eff.yy",
+    "name": "spr_enemy_destroy_eff",
+    "path": "sprites/spr_enemy_destroy_eff/spr_enemy_destroy_eff.yy",
   },
   "spriteMaskId": null,
   "visible": true,
