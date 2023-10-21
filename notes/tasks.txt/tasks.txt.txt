@@ -1,2 +1,4 @@
+- [] Criando player
+	- [X] Importar sprite player
 - [] Mover personagem (horizontal)
 - [] Mover personagem (vertical)

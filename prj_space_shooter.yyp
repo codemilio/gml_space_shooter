@@ -36,6 +36,7 @@
   },
   "resources": [
     {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"tasks.txt","path":"notes/tasks.txt/tasks.txt.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

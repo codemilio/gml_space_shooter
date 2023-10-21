@@ -17,5 +17,7 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"_Notas","order":16,"path":"folders/_Notas.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+  ],
 }
