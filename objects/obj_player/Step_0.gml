@@ -1,10 +1,10 @@
-/// @description -> Iniciando variáveis 
+/// @description > Iniciando variáveis 
 
 // Player commands
 var right, left, up, down, fire
 
 // internal vars
-var vfire_origin = y - sprite_height/2
+var vfire_origin = y - sprite_height/4
 right=keyboard_check(vk_right) || keyboard_check(ord("D"))
 left=keyboard_check(vk_left) || keyboard_check(ord("A"))
 up=keyboard_check(vk_up) || keyboard_check(ord("W"))
