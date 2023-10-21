@@ -34,14 +34,15 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
-    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
+    {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},},
+    {"id":{"name":"spr_tiro_player","path":"sprites/spr_tiro_player/spr_tiro_player.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"tasks.txt","path":"notes/tasks.txt/tasks.txt.yy",},},
-    {"id":{"name":"rm_","path":"rooms/rm_/rm_.yy",},},
+    {"id":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_","path":"rooms/rm_/rm_.yy",},},
+    {"roomId":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
