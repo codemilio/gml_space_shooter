@@ -1,4 +1,8 @@
 - [] Criando player
-	- [X] Importar sprite player
+- [X] Importar sprite player
+- [X] Criando objeto player
+- [X] Associando objeto a sprite
+- [X] Adicionando player na room
+- [] Ajustando viewport da room 
 - [] Mover personagem (horizontal)
 - [] Mover personagem (vertical)
