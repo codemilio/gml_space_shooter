@@ -1,3 +1,3 @@
-/// @description Destruindo disparo
+/// @description > Destruindo disparo
 
 instance_destroy()
