@@ -21,6 +21,7 @@
     {"name":"player","order":5,"path":"folders/Objetos/player.yy",},
     {"name":"enemies","order":6,"path":"folders/Objetos/enemies.yy",},
     {"name":"effs","order":7,"path":"folders/Objetos/effs.yy",},
+    {"name":"backgrounds","order":9,"path":"folders/Sprites/backgrounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bullet_player","order":1,"path":"objects/obj_bullet_player/obj_bullet_player.yy",},
