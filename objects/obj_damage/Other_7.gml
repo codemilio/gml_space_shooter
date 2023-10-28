@@ -1,3 +1,3 @@
-/// @description > Destrói efeito
+/// @description > Destrói 
 
 instance_destroy()

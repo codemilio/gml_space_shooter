@@ -3,7 +3,8 @@
 vspeed = -10
 
 // Efeito disparo
-image_xscale = 3
-image_yscale = 3
+image_xscale = 4
+image_yscale = 4
 
-alarm[0] = 2
+// Random Colors
+bullet_colors = choose(c_green, c_aqua, c_fuchsia, c_orange, c_yellow, c_blue)

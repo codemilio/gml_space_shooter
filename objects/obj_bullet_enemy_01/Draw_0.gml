@@ -1,22 +1,17 @@
 /// @description > Render
 
-
-// Desenhar o disparo
 draw_self()
 
 gpu_set_blendmode(bm_add)
-
-// Desenhar efeito 
 draw_sprite_ext(
-	spr_bullet_shine_01, 
+	spr_bullet_shine_02, 
 	image_index, 
 	x, 
 	y, 
-	image_xscale * 1.5, 
-	image_yscale * 1.5, 
+	image_xscale * .6, 
+	image_yscale * .6, 
 	image_angle, 
-	bullet_colors, 
-	0.5
+	c_red, 
+	0.3
 )
-
 gpu_set_blendmode(bm_normal)

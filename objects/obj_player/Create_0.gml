@@ -10,3 +10,4 @@ handlePlayerShooting = function() {
 		instance_create_layer(x, vfire_origin, "Bullets", obj_bullet_player)
 	}
 }
+

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description > Impacto no player
 
 instance_destroy()
-instance_destroy(other)
+// instance_destroy(other)
